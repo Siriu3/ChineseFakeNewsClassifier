@@ -1,0 +1,5 @@
+chinese_fake_news_detector/models/model_fold0.bin filter=lfs diff=lfs merge=lfs -text
+chinese_fake_news_detector/models/model_fold1.bin filter=lfs diff=lfs merge=lfs -text
+chinese_fake_news_detector/models/model_fold2.bin filter=lfs diff=lfs merge=lfs -text
+chinese_fake_news_detector/models/model_fold3.bin filter=lfs diff=lfs merge=lfs -text
+chinese_fake_news_detector/models/model_fold4.bin filter=lfs diff=lfs merge=lfs -text
