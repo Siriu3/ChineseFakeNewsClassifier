@@ -10,7 +10,7 @@ import time
 
 # API配置
 LLM_API_URL = os.getenv("LLM_API_URL", "https://api.v3.cm/v1/chat/completions") 
-API_KEY = os.getenv("LLM_API_KEY", "sk-8ulLLbbodYkCRkgi4e8aE3Bb7e564b21922953Fc5a061919")
+API_KEY = os.getenv("LLM_API_KEY", "your_key")
 CONCURRENCY = 5          # 并发请求数
 BATCH_SIZE = 20          # 每批数据量
 TIMEOUT = 30             # 请求超时(秒)
